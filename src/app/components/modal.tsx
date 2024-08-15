@@ -203,7 +203,7 @@ export function AnimatedModalDemo() {
 
               <div className="flex justify-center items-center">
                 <Image
-                  src="https://i.ibb.co/4Ppd5jv/snuggles-caring-1.gif"
+                  src="/snuggles-caring-1.gif"
                   alt="images"
                   width="500"
                   height="500"
@@ -247,7 +247,7 @@ export function AnimatedModalDemo() {
 
               <div className="flex justify-center items-center">
                 <Image
-                  src="https://i.ibb.co/mtWVxKH/gigit.gif"
+                  src="/gigit.gif"
                   alt="images"
                   width="500"
                   height="500"
@@ -290,7 +290,7 @@ export function AnimatedModalDemo() {
 
               <div className="flex justify-center items-center">
                 <Image
-                  src="https://i.ibb.co/cT3t21h/tkthao219-bubududu-2.gif"
+                  src="/tkthao219-bubududu-2.gif"
                   alt="images"
                   width="500"
                   height="500"
@@ -332,7 +332,7 @@ export function AnimatedModalDemo() {
 
               <div className="flex justify-center items-center">
                 <Image
-                  src="https://i.ibb.co/cT3t21h/tkthao219-bubududu-2.gif"
+                  src="/yeay.gif"
                   alt="images"
                   width="500"
                   height="500"
@@ -373,7 +373,7 @@ export function AnimatedModalDemo() {
 
               <div className="flex justify-center items-center">
                 <Image
-                  src="https://i.ibb.co/cT3t21h/tkthao219-bubududu-2.gif"
+                  src="/peach1.gif"
                   alt="images"
                   width="500"
                   height="500"
@@ -415,7 +415,7 @@ export function AnimatedModalDemo() {
 
               <div className="flex justify-center items-center">
                 <Image
-                  src="https://i.ibb.co/JyKdNBp/yeay.gif"
+                  src="/bunga.gif"
                   alt="images"
                   width="500"
                   height="500"
